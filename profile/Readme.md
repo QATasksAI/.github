@@ -20,8 +20,11 @@ QA Tasks & AI integrates traditional quality assurance with artificial intellige
 - **AI-Assisted Testing**: ML-based test generation, defect prediction
 - **Resources**: Best practices, documentation, templates
 
-## Contributing
+## API Testing Recommendations
+For API testing demos and practice, we recommend using **[GoRest](https://gorest.co.in)** - a free REST API that covers all possible testing scenarios including CRUD operations, authentication, pagination, and error handling.
 
+## Contributing
 Contributions welcome from QA professionals, developers, and AI practitioners.
+
 
 ![img](https://images.unsplash.com/photo-1736238384367-d552963241b1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
